@@ -1,0 +1,24 @@
+Browse Lite
+Code Runner
+Data Wrangler
+Debugger for Java
+Edit csv
+Extension Pack for Java
+FastAPI snippet
+Github Repositories
+gitignore
+Gradle for Java
+IntelliCode (AI)
+Java
+Jupyter
+Maven
+Python 
+Pylance
+Python Environments
+Rainbow CSV
+Remote Repositories
+Spring Initializr
+SQLite
+SQLIte Viewer
+Test Runner
+vscode-pdf
